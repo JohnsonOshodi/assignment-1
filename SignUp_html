@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AltSchool Sign Up Page</title>
+</head>
+<body>
+    <img src="/logo.svg" height="60px">
+    <br><br>
+    
+    <h1>Application Form</h1>
+    <section>Fill in your details</section>
+    <br><br>
+
+    <form>
+        <label>First Name*</label>
+        <input type="text" placeholder="Enter first name"/>
+        <label>Last Name*</label>
+        <input type="text" placeholder="Enter last name"/>
+        <br><br>
+        <div class="input-group">
+            <label for="gender">Gender</label>
+            <select type="text" name="gender" id="gender">
+                <option value="" disabled selected>Select Gender</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="active">Active</option>
+            </select>
+        </div>
+        <br><br>
+        <div class="input-group">
+            <label for="date-of-birth">Date of Birth</label>
+            <input type="date" name="date-of-birth" id="date-of-birth">
+        </div>
+        <br><br>
+        <label>Email Address*</label>
+        <input type="text" placeholder="Enter email address"/>
+        <label>Education level*</label>
+        <input type="text" placeholder="Select level of education"
+        <br><br>
+        <br><br>
+        <label>Coutry*</label>
+        <input type="text" placeholder="Select country"
+        <label>State/City of Residence*</label>
+        <input type="text" placeholder="Enter your state of residence"
+        <br><br>
+        <br><br>
+        <label>Employment Status*</label>
+        <input type="Select employment status"
+        <label>Phone number*</label>
+        <input type="text" placeholder="08136866094"
+        <br><br>
+        <br><br>
+        <label>Choose school*</label>
+        <input type="text" placeholder="Select school"
+        <label>Choose course of study*</label>
+        <input type="Select course"
+        <br><br>
+        <br><br>
+        <label>How did you hear about us?*</label>
+        <input type="text" placeholder="Select channel"
+        <label>Scholarship/Discount Code (optional)</label>
+        <input type="text" placeholder="Scholarship or Student ID......"
+        <br><br>
+        <br><br>
+        <label>By clicking continue, agree to Terms of Use and acknowlege</label>
+        <label>that I have read the Privacy Policy. </label>
+            
+        
+
+        
+            
+    
+        
+            
+        </select>"
+
+
+    </form>     
+
+    
+</body>
+</html>
